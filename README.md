@@ -1,6 +1,6 @@
 - 👋 Hi, I’m R.jayanth reddy
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning using with python
+- 👀 I’m interested in data analyst
+- 🌱 I’m currently learning sql,power bi,excel and python for advance.
 - 📫 How to reach me, i'm available at gmail
 - 
 
