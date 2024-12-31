@@ -1,4 +1,4 @@
--- DATA ANALYSIS
+-- DATA ANALYSIS.
 -- The following questions are addressed by the queries in this file:
 
 -- 1. What are the top 10 most populated countries?
