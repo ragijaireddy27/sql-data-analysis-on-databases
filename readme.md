@@ -1,5 +1,5 @@
 # Sakila SQL Practice Project
-
+- `https://github.com/users/ragijaireddy27/projects/2.
 This repository contains SQL queries practiced using the Sakila database. The queries cover a range of difficulties: easy, medium, and hard, based on real-world scenarios. Each query file includes comments explaining the logic and structure of the SQL used.
 
 ## Files
